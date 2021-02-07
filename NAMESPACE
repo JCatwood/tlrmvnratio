@@ -1,0 +1,3 @@
+useDynLib(tlrmvnratio)
+importFrom(Rcpp, evalCpp)
+export(mvn.ratio.tlr)

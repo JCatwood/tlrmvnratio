@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+src/*.o
+src/*.so
+src/*.dll
+test.R
+src/Makevars
+.Rbuildignore
+autom4te.cache/
+config.log
+config.status
+
